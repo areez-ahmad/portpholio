@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://areezahmad.me/sitemap.xml
+
+# Block irrelevant paths
+Disallow: /assets/index.html

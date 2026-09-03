@@ -1,0 +1,27 @@
+{
+  "name": "Areez Ahmad — Red Team Operator",
+  "short_name": "Areez Ahmad",
+  "description": "Portfolio of Areez Ahmad — Offensive Security Specialist & Red Team Operator from Pakistan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#FF0055",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/avatar.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/avatar.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
